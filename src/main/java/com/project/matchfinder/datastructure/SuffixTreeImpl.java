@@ -8,7 +8,7 @@ public class SuffixTreeImpl  implements  SuffixTree{
 
     @Override
     public void addString(String s) {
-
+        //adds new String to Suffix Tree
     }
 
     @Override
